@@ -2,4 +2,4 @@ Flask
 gunicorn
 Flask-SQLAlchemy
 pytest
-psycopg2
+psycopg2-binary
